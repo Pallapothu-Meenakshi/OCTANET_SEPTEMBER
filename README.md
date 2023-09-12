@@ -1,5 +1,5 @@
 # OCTANET_SEPTEMBER
-Landing  page
+Landing  page creation using html,css and javascript.
 
 
 
